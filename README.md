@@ -1,2 +1,2 @@
 # deploy_kubernetes
-K8s cluster built on bare metal without public cloud or private cloud
+If the operation can be completed according to the document, the deployed cluster can reach the quasi production level
